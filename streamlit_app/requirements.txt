@@ -1,4 +1,7 @@
-streamlit
-tensorflow>=2.x
-numpy
+streamlit==1.38.0
+tensorflow==2.20.0
+requests
+pandas
 Pillow
+scikit-learn
+requests

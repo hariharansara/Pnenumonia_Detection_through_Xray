@@ -1,0 +1,10 @@
+data_raw/
+models/evaluation_results/
+models/*.keras
+*.h5
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+*.log
+
